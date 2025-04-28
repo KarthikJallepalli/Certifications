@@ -1,6 +1,7 @@
 # Certifications
 
 # Data Camp Data Scientist Associate
+![image](https://github.com/user-attachments/assets/94513a4a-ef54-4e53-b58c-25345ebc44f4)
 
 1. Data Management Skills
 Importing and cleaning datasets
